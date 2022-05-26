@@ -10,11 +10,11 @@ It was written in Python 3 and using the built-in module 're', to work with regu
 
 ### Standard Mesquite's characters list exported (input):
 
-![Standard Mesquite's output characters list](assets%5Cimg%5Cmesquite_output.jpg)
+![Standard Mesquite's output characters list](assets/img/mesquite_output.jpg)
 
 ### This software's characters list (output): 
 
- ![Output](assets%5Cimg%5Coutput.jpg)
+ ![Output](assets/img/output.jpg)
 
  ## Future implementations
 
