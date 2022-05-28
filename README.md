@@ -18,10 +18,16 @@ It was written in Python 3 and using the built-in module 're', to work with regu
 
  ## Future implementations
 
- It was the first implementation of this software. In the future, I want to add:
+ It was the first implementation of this software. In the future, I want to implement:
 
-- Other types of rearrangement pattern to Output
-- Possibilty to export output file in `.csv`
-- CLI (Command Line Interface)
-- A simple GUI (Graphic User Interface)
-- Generate an executable to desktop
+### Refactor
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Type-hints
+- [ ] PEP8
+
+### New features
+- [ ] Selector to output rearrangement pattern
+- [ ] Possibility to export output file in `.csv`
+- [ ] CLI (Command Line Interface)
+- [ ] A simple GUI (Graphic User Interface)
+- [ ] Generate an executable to desktop
