@@ -1,5 +1,6 @@
 from typing import List
 
+
 class FileHandler:
 
     @staticmethod
@@ -9,7 +10,7 @@ class FileHandler:
             input_data = []
             for data in input_data_raw:
                 data_treated = data.strip()
-                if(data_treated != ''):
+                if data_treated != '':
                     input_data.append(data_treated)
             return input_data
 
