@@ -14,6 +14,6 @@ class FileHandler:
             return input_data
 
     @staticmethod
-    def save_output_file(self, output_data):
-        with open(self._filepath, mode='w', encoding='utf-8'):
+    def save_output_file(output_data: str) -> None:
+        with open(output_data, mode='w', encoding='utf-8'):
             ...

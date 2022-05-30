@@ -24,6 +24,7 @@ It was written in Python 3 and using the built-in module 're', to work with regu
 - [ ] Object-Oriented Programming (OOP)
 - [ ] Type-hints
 - [ ] PEP8
+- [ ] Tests
 
 ### New features
 - [ ] Selector to output rearrangement pattern
