@@ -1,5 +1,6 @@
 import re
 
+
 class Regex:
     def __init__(self) -> None:
         self.__pattern_character: str = '([0-9]+)[.][ ](.+)'
